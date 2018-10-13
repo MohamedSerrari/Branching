@@ -4,8 +4,8 @@ def add():
 def subtract():
     pass
 
-def multiply():
-    pass
+def multiply(a,b):
+    return a*b
 
 def divide():
     pass
