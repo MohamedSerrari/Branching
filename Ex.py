@@ -7,5 +7,5 @@ def subtract():
 def multiply(a,b):
     return a*b
 
-def divide():
-    pass
+def divide(a,b):
+    return a/b
